@@ -1,7 +1,3 @@
-Here’s a draft for the `README.md` file for your repository, `secure-camera-app`:
-
----
-
 # Secure Camera App
 
 A secure camera application built entirely in Java, designed to provide enhanced privacy and data protection while capturing photos and videos.
