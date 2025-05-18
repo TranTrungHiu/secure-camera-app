@@ -1,3 +1,46 @@
 <resources>
-    <string name="app_name">SecureCameraApp</string>
+    <string name="app_name">Camera Bảo Mật</string>
+    <string name="capture_photo">Chụp ảnh</string>
+    <string name="switch_camera">Đổi camera</string>
+    <string name="gallery">Thư viện</string>
+    <string name="settings">Cài đặt</string>
+    <string name="flash_auto">Tự động</string>
+    <string name="flash_on">Bật flash</string>
+    <string name="flash_off">Tắt flash</string>
+    <string name="file_saved">Ảnh đã được lưu</string>
+    <string name="file_saved_and_encrypted">Ảnh đã được mã hóa và lưu</string>
+    <string name="error_saving">Lỗi khi lưu ảnh</string>
+    <string name="camera_permission_denied">Quyền camera bị từ chối</string>
+    <string name="storage_permission_denied">Quyền lưu trữ bị từ chối</string>
+    <string name="enable_encryption">Bật mã hóa</string>
+    <string name="back">Quay lại</string>
+    
+    <!-- Settings Strings -->
+    <string name="security_settings">Cài đặt bảo mật</string>
+    <string name="camera_settings">Cài đặt camera</string>
+    <string name="default_encryption">Mặc định mã hóa ảnh</string>
+    <string name="auto_delete">Tự động xóa sau 30 ngày</string>    <string name="default_flash_mode">Chế độ flash mặc định</string>
+    <string name="default_camera">Camera mặc định</string>
+    <string name="photo_quality">Chất lượng ảnh</string>
+    <string name="reset_settings">Khôi phục cài đặt gốc</string>
+    <string name="settings_saved">Cài đặt đã được lưu</string>
+    
+    <!-- Array values -->
+    <string-array name="flash_modes">
+        <item>Tắt</item>
+        <item>Bật</item>
+        <item>Tự động</item>
+    </string-array>
+    
+    <string-array name="camera_types">
+        <item>Camera sau</item>
+        <item>Camera trước</item>
+    </string-array>
+    
+    <string-array name="photo_quality">
+        <item>Thấp (1080p)</item>
+        <item>Trung bình (2K)</item>
+        <item>Cao (4K)</item>
+        <item>Tối đa</item>
+    </string-array>
 </resources>
